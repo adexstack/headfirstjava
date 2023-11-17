@@ -1,0 +1,11 @@
+1st execute the server n a terminal. Note  use port 6000 as 5000 was already binding
+PS C:\Users\seyade02\HeadFirstJava\Learning\NettworkingAndThreads\networking\src> javac .\SimpleChatServer.java
+PS C:\Users\seyade02\HeadFirstJava\Learning\NettworkingAndThreads\networking\src> java SimpleChatServer
+
+Then execute the client on another terminal and send chats
+PS C:\Users\seyade02\HeadFirstJava\Learning\NettworkingAndThreads\networking\src> javac .\SimpleChatClient.java
+PS C:\Users\seyade02\HeadFirstJava\Learning\NettworkingAndThreads\networking\src> java SimpleChatClient
+Networking established. Client running at: /127.0.0.1:52802
+
+OR
+run the main of SimpleChatServer and then main of SimpleChatClient

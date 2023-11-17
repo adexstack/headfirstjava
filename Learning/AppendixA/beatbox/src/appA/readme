@@ -1,0 +1,14 @@
+start MusicServer 1st
+then,
+    % java BeatBoxFinal theFlash
+OR
+    % java BeatBoxAlternative theFlash
+Note to execute the above , you might want to do it this way:
+javac BeatBoxFinal.java
+% java BeatBoxFinal theFlash
+
+In intellij, I edit configuration and theFlash in CLI argument field
+
+In the box gui that pops up, select all the boxes you want and click start
+
+Note: send is currently sending string object, Todo: I will fix this to print strings

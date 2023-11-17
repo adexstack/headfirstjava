@@ -1,0 +1,3 @@
+implementation for Path and moving files around
+ensure MyMedia.txt exists in serialized path
+Got an NIO Exception if MyApp directory already exist. Delete off 1st before running the main class
